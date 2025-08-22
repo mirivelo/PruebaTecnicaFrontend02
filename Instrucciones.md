@@ -23,7 +23,7 @@
 
 4. Crear la estructura básica dentro del **index.html** para mostrar un formulario que servirá para realizar un cuestionario de opción múltiple. Debe tener una sección con las instruccciones así como una etiqueta para que se pueda mostrar una pregunta, y una sección para mostrar los radio buttons de las respuestas, así como un botón de Anterior  y Siguiente.
 
-![Cuestionario](https://raw.githubusercontent.com/jcgeneration/PruebaTecnicaFrontend2/main/img/cuestionaio.png)
+![Cuestionario](https://raw.githubusercontent.com/jcgeneration/PruebaTecnicaFrontend2/refs/heads/main/img/cuestionario.png)
 
 5. Dentro del archivo **main.js** crear las funciones para responder a los evento **click** de los botones Anterior y Siguiente.
 
